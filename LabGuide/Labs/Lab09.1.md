@@ -26,21 +26,21 @@ In this lab, you will complete the following tasks:
 - **Description** : New report
 - **Source** : Blue coat ProxySG - Access log(W3C)
 
-   ![Picture 1](../Media/DiscoverApps 9.png)
+   ![Picture 1](../Media/DiscoverApps9.png)
 
 4. Select **Browse** and choose the source from which you want to upload the log files and select the sample log file which was downloaded in previous step. Select **Upload logs**.
 
-   ![Picture 1](../Media/DiscoverApps 10.png)
+   ![Picture 1](../Media/DiscoverApps10.png)
 
    > **Note**: Verify your log format to make sure that it's formatted properly according to the sample log you can download. Under Verify your log format, select View log format then select Download sample log. Compare your log with the sample provided to make sure it's compatible.
 
 1. Select **Settings**. Then under Cloud Discovery, select **Snapshot reports**, and select your snapshot report. You can see all the details regarding the report that you have uploaded.
 
-   ![Picture 1](../Media/DiscoverApps 13.png)
+   ![Picture 1](../Media/DiscoverApps13.png)
 
 1. Select Discovered apps to see all the apps present in the portal.
 
-    ![Picture 1](../Media/DiscoverApps 15.png)
+    ![Picture 1](../Media/DiscoverApps15.png)
 
 ## Review
 In this lab, you will complete the following tasks:
